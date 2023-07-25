@@ -1,2 +1,2 @@
 # E-Commerce-Platform
-Springboot project
+The E-commerce Platform project is a dynamic and robust web application designed to provide users with a seamless online shopping experience. Built on the powerful combination of Spring Boot and MyBatis, this platform offers a wide range of functionalities to users, enabling them to register, log in, browse products, add items to their shopping cart, place orders, upload avatars, and manage their address information.
